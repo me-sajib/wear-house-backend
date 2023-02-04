@@ -155,7 +155,7 @@ async function databaseInterface() {
 			);
 		});
 
-		console.log("connection successfully");
+		console.log("DB connection successfully");
 	} finally {
 		// client.close();
 	}
